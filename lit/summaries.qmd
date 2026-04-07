@@ -1,0 +1,68 @@
+---
+title: "Summaries"
+author: "Robert Esposito"
+format: pdf
+---
+
+# Article Summaries
+
+## @stephens1989language
+
+Portuguese in USA. Arrivals began in 1820s, picked up in 1830s with arrival fo Lusitanian and Azorean. Congregated to New England, specifically MA. 1850s, to California (San Fran).
+
+Late 19th/early 20th century, big influx to CA, MA, NY, & NJ. Mid-1970s, major immigration event.
+
+Early immigrants = high illiteracy, low English.
+
+Azorean Portuguese is stigamized [@middleton1986language].
+
+Began arriving to MNeark in large groups in 1920s [@cunha1981portugueses].
+
+Bilingual programs (I guess school programs?) & Sunday schools. 15 private Portuguese schools, similar to Hebrew schools.
+
+## @caravalho201014
+
+Portuguese immigrants mainly from Azores Islands, mainland Portugual, and Cape Verdean, smaller population from Mozambique and Angola. High concentrations in MA. Over last 20 years, Cape Verdeans & Brazilians account for most PT speakers.
+
+14,829 students taking Portuguese classes in K-12 schools in 2008 [@vicente2008promoccao].
+
+Modern Language Association in 2006 reported 22.4% increase of availability of Portuguese instruction between 2002 and 2006.
+
+US Census underestimates PT speakers in USA. Ministry of Foreign Affairs in Brazil report much higher estimate. Due to undocumented immigrants.
+
+National Bilingual Education Act of 1968 resulted in PT-EN bilingual education initiatives in 1970s.
+
+Republic of Cape Verde immigrants speak a Portuguese-based creole and Portuguese. They typically are more receptive bilinguals than e.g., Azorean or Madeiran speakers in the US (Ferreira 2005; need to find bibtex). Cape Verdean-Americans tend to be L1 Crole L1 EN/L2 EN, and then may learn PT as L3 in school.
+
+Brazilian immigration in 1984-1987, again in 1990s. Young, educated, middle-class men and women on tourist visas and overstayed (Bensabat-Ott 2000; need to find bibtex). Later, working class immigrants from small towns and rural areas who entered via US-Mexico border.
+
+Luso-American Foundation (FLAD, Fundacao Luso-Americana de Desenvolvimento) identified `r 52 + 25 + 20 + 17 + 13 + 10 + 5 +1` K-12 public and community schools that offer Portuguese. 20 in NJ, 10 in NY, 13 in CT; weekend Portuguese language schools in NJ [@vicente2008promoccao].
+
+Dual-immersion EN-PT program in K-8 school in MA resulted in greater awareness of dialectal differences among teachers, parents, and staff [@rubinstein2002problematizing].
+
+Dialectal differences do not result in communicative breakdown between students (Rubinstein-Avila, 2002; Ferreira, 2005).
+
+## osborne2021perception
+
+The main goal of this study is to investigate the perception of Portuguese mid-vowel contrasts (/ɛ/-/e/ and /ɔ/-/o/) by heritage speakers (HSs) of Brazilian Portuguese (BP) who grew up in the United States. This study shows, for instance, an asymmetry in categorization as a function of degree of language dominance for mid-back vowel contrast, but not for mid-front vowel contrast.
+
+I wonder if this is because of cot-caught merger? Would be interesting to investigate to see if L1 PT L1 EN or switch dominance L1 PT L2 EN with and without cot-caught merger perform differently in PT.
+
+## @rothman2014portuguese
+
+No studies examining Cape Verdean Portuguese as a heritage language. (Although, as noted by @caravalho201014, they would be learning Cape Verdean Creole at home).
+
+PT-PT stops are pronounced as fricatives; BR-PT pronounces as plosives. Would be interesting to see if PT-PT maintains fricatives in Newark given input from BR-PT and English.
+
+Summary of heritage speakers learning in college, focused on dialectal differences [@silva2010starting].
+
+## @silva2010starting
+
+Developing a heritage speaker track in college for PT. Focus on dialectal differences. 
+
+
+# Topic Summaries
+
+# Misc.
+
+Fernanda A. Ferreira has a lot of research on heritage speakers in college classes.
