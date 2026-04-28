@@ -68,6 +68,9 @@ Summary of heritage speakers learning in college, focused on dialectal differenc
 
 Developing a heritage speaker track in college for PT. Focus on dialectal differences.
 
+## @galves2005syntax
+Syntactic position of clitic pronouns (e.g., *me, te, se, o, lhe*) in EP and BP arise from both syntactic and morphophonological factors. The authors argue that EP clitics attach to Infl (inflectional category) and BP clitics attach to the verb (V) in the syntactic structure. Additionally, the authors argue that EP does not permit clitics in sentence-initial position, whereas BP does not have this restriction. This results in a strong preference for enclisis (post-verbal clitic) in EP (*chamou-me*), and a preference for proclisis (pre-verbal clitic) in BP (*me chamou*). In multi-verb constructions, EP clitics attach to the finite verb (*tinham-se entendido perfeitamente*), while in BP they tend to attach to the non-finite verb (*tinham se entendido perfeitamente*)
+
 ## @amadeo2025perception
 
 Escudero et al. (2009; "A cross-dialect acoustic description of vowels: Brazilian and European Portuguese) and Rato & Carlet (2020) show that BR-PT and PT-PT share some similarities in their vowel inventory.
